@@ -1,0 +1,2 @@
+E:\UnityProject\CSharpAndLua\Dll\UnityDll\x64\Debug\UnityDll.dll
+E:\UnityProject\CSharpAndLua\Dll\UnityDll\x64\Debug\UnityDll.pdb
